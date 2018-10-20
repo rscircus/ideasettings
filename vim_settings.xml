@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/mh_scanner/jawa_registration-service/src/main/resources/application.yml" timestamp="1540000821660">
+        <mark key="'" line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/crmt/contract/model/ContractReplyErrorMapper.java" timestamp="1540000403344">
+        <mark key="[" line="26" column="68" />
+        <mark key="]" line="26" column="68" />
+        <mark key="." line="26" column="68" />
+        <mark key="^" line="26" column="68" />
+      </file>
+      <file name="$USER_HOME$/src/mh_scanner/jawa_registration-service/build.gradle" timestamp="1540000790340">
+        <mark key="'" line="52" column="62" />
+      </file>
       <file name="$USER_HOME$/src/mh_scanner/jawa_authorization-service/build.gradle" timestamp="1539863919292">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="65" column="60" />
@@ -10,8 +22,12 @@
         <mark key="." line="65" column="65" />
         <mark key="^" line="65" column="65" />
       </file>
-      <file name="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/crmt/contract/model/CustomerContractsDataMapper.java" timestamp="1540000003948">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/crmt/contract/model/CustomerContractsDataMapper.java" timestamp="1540000501105">
+        <mark key="'" line="58" column="1" />
+        <mark key="[" line="64" column="3" />
+        <mark key="]" line="64" column="1" />
+        <mark key="^" line="64" column="1" />
+        <mark key="." line="64" column="1" />
       </file>
       <file name="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/controllers/CustomerDataController.java" timestamp="1540000201599">
         <mark key="'" line="100" column="0" />
@@ -68,12 +84,22 @@
       <jump line="65" column="19" filename="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/crmt/contract/model/ContractData.java" />
       <jump line="100" column="0" filename="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/controllers/CustomerDataController.java" />
       <jump line="40" column="30" filename="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/controllers/GlobalRestExceptionHandler.java" />
+      <jump line="58" column="1" filename="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/crmt/contract/model/CustomerContractsDataMapper.java" />
+      <jump line="52" column="62" filename="$USER_HOME$/src/mh_scanner/jawa_registration-service/build.gradle" />
+      <jump line="74" column="6" filename="$USER_HOME$/src/mh_scanner/jawa_registration-service/src/main/resources/application.yml" />
+      <jump line="11" column="31" filename="$USER_HOME$/src/mh_scanner/jawa_registration-service/src/main/resources/application.yml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAiZGUuY29kZWNlbnRyaWM6c3ByaW5nLWJvb3QtYWRtaW4tZGVwZW5kZW5jaWVzOiR7c3ByaW5nQm9vdEFkbWluVmVyc2lvbn0iCg==</text>
+      <register name="&quot;" type="4">
+        <text>M</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="-" type="4">
+        <text>M</text>
+      </register>
+      <register name="/" type="4">
+        <text>bom</text>
+      </register>
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAiZGUuY29kZWNlbnRyaWM6c3ByaW5nLWJvb3QtYWRtaW4tZGVwZW5kZW5jaWVzOiR7c3ByaW5nQm9vdEFkbWluVmVyc2lvbn0iCg==</text>
       </register>
       <register name="2" type="2">
@@ -102,9 +128,6 @@
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="/" type="4">
-        <text>bom</text>
       </register>
     </registers>
     <search>
