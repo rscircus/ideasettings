@@ -1,0 +1,128 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/src/porgs/legacy-switch-service/src/main/java/de/telekom/magentahaus/LegacySwitchApplication.java" timestamp="1539177287476">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/porgs/legacy-switch-service/src/main/java/de/telekom/magentahaus/clients/legacy/CustomerContractsData.java" timestamp="1539177510805">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/porgs/legacy-data-service/src/main/resources/application.yml" timestamp="1539002214539">
+        <mark key="'" line="112" column="3" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mh_scanner/jawa_registration-service/src/main/resources/application.yml" timestamp="1539863512694" />
+      <file name="$USER_HOME$/src/porgs/legacy-data-service/src/main/java/de/telekom/magentahaus/LegacyDataApplication.java" timestamp="1539178095715">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mh_scanner/jawa_authorization-service/build.gradle" timestamp="1539863919292">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="65" column="60" />
+        <mark key="]" line="65" column="65" />
+        <mark key="." line="65" column="65" />
+        <mark key="^" line="65" column="65" />
+      </file>
+      <file name="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" timestamp="1539000824306">
+        <mark key="'" line="22" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/porgs/legacy-switch-service/src/main/java/de/telekom/magentahaus/clients/customer/CustomerServiceClient.java" timestamp="1539161384893">
+        <mark key="[" line="35" column="94" />
+        <mark key="]" line="35" column="96" />
+        <mark key="^" line="35" column="96" />
+        <mark key="." line="35" column="96" />
+      </file>
+      <file name="$USER_HOME$/src/porgs/legacy-switch-service/src/main/resources/application.yml" timestamp="1539591877612">
+        <mark key="'" line="3" column="2" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="22" column="17" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="112" column="3" filename="$USER_HOME$/src/porgs/legacy-data-service/src/main/resources/application.yml" />
+      <jump line="91" column="8" filename="$USER_HOME$/src/porgs/legacy-switch-service/src/main/resources/application.yml" />
+      <jump line="3" column="2" filename="$USER_HOME$/src/porgs/legacy-switch-service/src/main/resources/application.yml" />
+      <jump line="71" column="48" filename="$USER_HOME$/src/mh_scanner/jawa_authorization-service/build.gradle" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/mh_scanner/jawa_authorization-service/build.gradle" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAiZGUuY29kZWNlbnRyaWM6c3ByaW5nLWJvb3QtYWRtaW4tZGVwZW5kZW5jaWVzOiR7c3ByaW5nQm9vdEFkbWluVmVyc2lvbn0iCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAiZGUuY29kZWNlbnRyaWM6c3ByaW5nLWJvb3QtYWRtaW4tZGVwZW5kZW5jaWVzOiR7c3ByaW5nQm9vdEFkbWluVmVyc2lvbn0iCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzcHJpbmdCb290QWRtaW5WZXJzaW9uID0gJzIuMC4zJwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjdXN0b21lckRhdGE7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwdWJsaWMgQ3VzdG9tZXJEYXRhIGdldEN1c3RvbWVyRGF0YSgpIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="/" type="4">
+        <text>bom</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>bom</last-search>
+      <last-offset />
+      <last-pattern>bom</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>boot</entry>
+        <entry>BOM</entry>
+        <entry>bom</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
