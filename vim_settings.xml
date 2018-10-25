@@ -125,8 +125,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" timestamp="1540453750120">
-        <mark key="'" line="60" column="4" />
+      <file name="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" timestamp="1540462741809">
+        <mark key="'" line="295" column="8" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="2" />
+        <mark key="^" line="36" column="2" />
+        <mark key="." line="36" column="2" />
       </file>
       <file name="$USER_HOME$/src/porgs/legacy-switch-service/src/main/java/de/telekom/magentahaus/clients/customer/CustomerServiceClient.java" timestamp="1539161384893">
         <mark key="[" line="35" column="94" />
@@ -210,6 +214,17 @@
       <jump line="134" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring.factories" />
       <jump line="44" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring.factories" />
       <jump line="3" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring.factories" />
+      <jump line="286" column="95" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="126" column="28" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="127" column="30" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="128" column="30" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="146" column="55" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="205" column="8" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="135" column="41" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="266" column="4" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="290" column="8" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
+      <jump line="295" column="8" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -219,7 +234,7 @@
         <text>amqp</text>
       </register>
       <register name="/" type="4">
-        <text>Rabbit</text>
+        <text>structurizr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChyZXNwb25zZS5zdGF0dXMoKSA9PSBIdHRwU3RhdHVzLk5PVF9GT1VORC52YWx1ZSgpKSB7Cg==</text>
@@ -257,9 +272,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Rabbit</last-search>
+      <last-search>structurizr</last-search>
       <last-offset />
-      <last-pattern>Rabbit</last-pattern>
+      <last-pattern>structurizr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -277,6 +292,8 @@
         <entry>correlationid</entry>
         <entry>rabbit</entry>
         <entry>Rabbit</entry>
+        <entry>jaxb</entry>
+        <entry>structurizr</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
