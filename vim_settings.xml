@@ -107,18 +107,24 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/jawas/admin-service/build.gradle" timestamp="1541511644562">
-        <mark key="'" line="2" column="31" />
-        <mark key="[" line="49" column="83" />
-        <mark key="]" line="50" column="3" />
-        <mark key="." line="50" column="3" />
-        <mark key="^" line="50" column="3" />
+      <file name="$USER_HOME$/src/jawas/admin-service/build.gradle" timestamp="1541780363068">
+        <mark key="'" line="45" column="35" />
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="35" />
+        <mark key="." line="45" column="35" />
+        <mark key="^" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/src/learn/spring/mvc/pom.xml" timestamp="1540807587550">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="34" column="9" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/jawas/admin-service/README.md" timestamp="1541780536447">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/src/jawas/admin-service/src/main/java/de/telekom/magentahaus/admin/AdminApplication.java" timestamp="1541511858554">
         <mark key="[" line="7" column="0" />
@@ -149,7 +155,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541156540469">
+      <file name="/Dummy.txt" timestamp="1541780459253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -314,7 +320,6 @@
       <jump line="119" column="46" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
       <jump line="120" column="46" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
       <jump line="148" column="46" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
-      <jump line="27" column="25" filename="$USER_HOME$/src/jawas/admin-service/build.gradle" />
       <jump line="52" column="0" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
       <jump line="165" column="13" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
       <jump line="5" column="0" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
@@ -363,16 +368,18 @@
       <jump line="124" column="16" filename="$USER_HOME$/src/porgs/legacy-data-service/build.gradle" />
       <jump line="13" column="0" filename="$USER_HOME$/src/jawas/admin-service/src/main/resources/application.yml" />
       <jump line="2" column="31" filename="$USER_HOME$/src/jawas/admin-service/build.gradle" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/jawas/admin-service/build.gradle" />
+      <jump line="45" column="35" filename="$USER_HOME$/src/jawas/admin-service/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmF1dGhlbnRpY2F0aW9uLkF1dGhlbnRpY2F0aW9uTWFuYWdlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkud2ViLmF1dGhlbnRpY2F0aW9uLnd3dy5CYXNpY0F1dGhlbnRpY2F0aW9uRW50cnlQb2ludDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkud2ViLmF1dGhlbnRpY2F0aW9uLnd3dy5CYXNpY0F1dGhlbnRpY2F0aW9uRmlsdGVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>GAURAVBYTES</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>Finchley</text>
+        <text>FINCH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgQ29sbGVjdGlvbjxTdHVkZW50PiBnZXRBbGxTdHVkZW50cygpewogICAgcmV0dXJuCiAgfQo=</text>
@@ -405,13 +412,13 @@
         <text encoding="base64">c2VjdXJpdHk6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Finchley</last-search>
+      <last-search>FINCH</last-search>
       <last-offset />
-      <last-pattern>Finchley</last-pattern>
+      <last-pattern>FINCH</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
@@ -419,7 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bom</entry>
         <entry>zipkin</entry>
         <entry>eureka</entry>
         <entry>cloud</entry>
@@ -439,6 +445,7 @@
         <entry>2</entry>
         <entry>telekom</entry>
         <entry>Finchley</entry>
+        <entry>FINCH</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -448,6 +455,7 @@
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvMy9n</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
